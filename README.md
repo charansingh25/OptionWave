@@ -2,6 +2,8 @@
 
 This repository provides an interactive dashboard based on the OptionWave (Black-Scholes) Pricing Model. The dashboard allows users to visualize option prices under varying conditions, making it easy to explore how changes in spot price, volatility, and other market factors influence the value of options.
 
+LIVE : https://charansingh25-optionwave.streamlit.app/
+
 ## 🚀 Features:
 
 1. **Options Pricing Visualization**:
@@ -32,7 +34,7 @@ To set up this project locally and run the dashboard, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/OptionWave.git
+git clone https://github.com/charansingh25/OptionWave.git
 cd OptionWave
 ```
 
