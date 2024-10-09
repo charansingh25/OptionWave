@@ -4,6 +4,8 @@ This repository provides an interactive dashboard based on the OptionWave (Black
 
 LIVE : https://charansingh25-optionwave.streamlit.app/
 
+<img src="/public/image-1.png" width = "100%" alt="Option-wave-iamge">
+
 ## 🚀 Features:
 
 1. **Options Pricing Visualization**:
