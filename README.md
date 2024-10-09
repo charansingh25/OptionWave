@@ -82,3 +82,8 @@ streamlit run streamlit_app.py
 
 Visit http://localhost:8501 in your web browser to view the dashboard.
 
+
+### AUTHOR 
+
+- **GitHub:** [charansingh25](https://github.com/charansingh25)
+
